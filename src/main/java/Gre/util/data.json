@@ -1,0 +1,1617 @@
+[
+    {
+       "id":1,
+       "word":"abject",
+       "meaning":"(of something bad) experienced or present to the maximum degree."
+    },
+    {
+       "id":2,
+       "word":"abjure",
+       "meaning":"Solemnly renounce (a belief, cause, or claim)"
+    },
+    {
+       "id":3,
+       "word":"abstain",
+       "meaning":"Restrain oneself from doing or enjoying something."
+    },
+    {
+       "id":4,
+       "word":"abstemious",
+       "meaning":"Indulging only very moderately in something, especially food and drink."
+    },
+    {
+       "id":5,
+       "word":"admonish",
+       "meaning":"Warn or reprimand someone firmly."
+    },
+    {
+       "id":6,
+       "word":"adulterate",
+       "meaning":"Render (something) poorer in quality by adding another substance."
+    },
+    {
+       "id":7,
+       "word":"advocate",
+       "meaning":"A person who publicly supports or recommends a particular cause or policy."
+    },
+    {
+       "id":8,
+       "word":"alacrity",
+       "meaning":"Brisk and cheerful readiness."
+    },
+    {
+       "id":9,
+       "word":"ambrosia",
+       "meaning":"The food of the gods."
+    },
+    {
+       "id":10,
+       "word":"ameliorate",
+       "meaning":"Make (something bad or unsatisfactory) better."
+    },
+    {
+       "id":11,
+       "word":"anachronism",
+       "meaning":"A thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned."
+    },
+    {
+       "id":12,
+       "word":"anodyne",
+       "meaning":"Not likely to cause offence or disagreement and somewhat dull."
+    },
+    {
+       "id":13,
+       "word":"anomaly",
+       "meaning":"Something that deviates from what is standard, normal, or expected."
+    },
+    {
+       "id":14,
+       "word":"antediluvian",
+       "meaning":"Of or belonging to the time before the biblical Flood."
+    },
+    {
+       "id":15,
+       "word":"antipathy",
+       "meaning":"A deep-seated feeling of aversion."
+    },
+    {
+       "id":16,
+       "word":"apathy",
+       "meaning":"Lack of interest, enthusiasm, or concern."
+    },
+    {
+       "id":17,
+       "word":"apogee",
+       "meaning":"The highest point in the development of something; a climax or culmination."
+    },
+    {
+       "id":18,
+       "word":"apothegm",
+       "meaning":"A concise saying or maxim; an aphorism."
+    },
+    {
+       "id":19,
+       "word":"apposite",
+       "meaning":"Apt in the circumstances or in relation to something."
+    },
+    {
+       "id":20,
+       "word":"argot",
+       "meaning":"The jargon or slang of a particular group or class."
+    },
+    {
+       "id":21,
+       "word":"ascetic",
+       "meaning":"Characterized by severe self-discipline and abstention from all forms of indulgence, typically for religious reasons."
+    },
+    {
+       "id":22,
+       "word":"asperity",
+       "meaning":"Harshness of tone or manner."
+    },
+    {
+       "id":23,
+       "word":"aspersion",
+       "meaning":"An attack on the reputation or integrity of someone or something."
+    },
+    {
+       "id":24,
+       "word":"assiduous",
+       "meaning":"Showing great care and perseverance."
+    },
+    {
+       "id":25,
+       "word":"assuage",
+       "meaning":"Make (an unpleasant feeling) less intense."
+    },
+    {
+       "id":26,
+       "word":"audacious",
+       "meaning":"Showing a willingness to take surprisingly bold risks."
+    },
+    {
+       "id":27,
+       "word":"avarice",
+       "meaning":"Extreme greed for wealth or material gain."
+    },
+    {
+       "id":28,
+       "word":"beatify",
+       "meaning":"(in the Roman Catholic Church) announce the beatification of."
+    },
+    {
+       "id":29,
+       "word":"bolster",
+       "meaning":"A long, thick pillow that is placed under other pillows for support."
+    },
+    {
+       "id":30,
+       "word":"brazen",
+       "meaning":"Bold and without shame."
+    },
+    {
+       "id":31,
+       "word":"broach",
+       "meaning":"Raise (a difficult subject) for discussion."
+    },
+    {
+       "id":32,
+       "word":"bucolic",
+       "meaning":"Relating to the pleasant aspects of the countryside and country life."
+    },
+    {
+       "id":33,
+       "word":"burgeon",
+       "meaning":"Begin to grow or increase rapidly; flourish."
+    },
+    {
+       "id":34,
+       "word":"buttress",
+       "meaning":"A structure of stone or brick built against a wall to strengthen or support it."
+    },
+    {
+       "id":35,
+       "word":"cadge",
+       "meaning":"Ask for or obtain (something to which one is not strictly entitled)"
+    },
+    {
+       "id":36,
+       "word":"calumny",
+       "meaning":"The making of false and defamatory statements about someone in order to damage their reputation; slander."
+    },
+    {
+       "id":37,
+       "word":"canard",
+       "meaning":"An unfounded rumour or story."
+    },
+    {
+       "id":38,
+       "word":"cant",
+       "meaning":"Hypocritical and sanctimonious talk, typically of a moral, religious, or political nature."
+    },
+    {
+       "id":39,
+       "word":"cantankerous",
+       "meaning":"Bad-tempered, argumentative, and uncooperative."
+    },
+    {
+       "id":40,
+       "word":"capricious",
+       "meaning":"Given to sudden and unaccountable changes of mood or behaviour."
+    },
+    {
+       "id":41,
+       "word":"captious",
+       "meaning":"Tending to find fault or raise petty objections."
+    },
+    {
+       "id":42,
+       "word":"carnal",
+       "meaning":"Relating to physical, especially sexual, needs and activities."
+    },
+    {
+       "id":43,
+       "word":"carping",
+       "meaning":"Difficult to please; critical."
+    },
+    {
+       "id":44,
+       "word":"caucus",
+       "meaning":"(in some US states) a meeting at which local members of a political party register their preference among candidates running for office or select delegates to attend a convention."
+    },
+    {
+       "id":45,
+       "word":"chicanery",
+       "meaning":"The use of deception or subterfuge to achieve one's purpose."
+    },
+    {
+       "id":46,
+       "word":"churlish",
+       "meaning":"Rude in a mean-spirited and surly way."
+    },
+    {
+       "id":47,
+       "word":"clairvoyant",
+       "meaning":"A person who claims to have a supernatural ability to perceive events in the future or beyond normal sensory contact."
+    },
+    {
+       "id":48,
+       "word":"clamor",
+       "meaning":"A loud and confused noise, especially that of people shouting vehemently."
+    },
+    {
+       "id":49,
+       "word":"clique",
+       "meaning":"A small close-knit group of people who do not readily allow others to join them."
+    },
+    {
+       "id":50,
+       "word":"coda",
+       "meaning":"The concluding passage of a piece or movement, typically forming an addition to the basic structure."
+    },
+    {
+       "id":51,
+       "word":"compendium",
+       "meaning":"A collection of concise but detailed information about a particular subject, especially in a book or other publication."
+    },
+    {
+       "id":52,
+       "word":"concoct",
+       "meaning":"Make (a dish or meal) by combining various ingredients."
+    },
+    {
+       "id":53,
+       "word":"concomitant",
+       "meaning":"Naturally accompanying or associated."
+    },
+    {
+       "id":54,
+       "word":"confound",
+       "meaning":"Cause surprise or confusion in (someone), especially by not according with their expectations."
+    },
+    {
+       "id":55,
+       "word":"conjugal",
+       "meaning":"Relating to marriage or the relationship between a married couple."
+    },
+    {
+       "id":56,
+       "word":"connoisseur",
+       "meaning":"An expert judge in matters of taste."
+    },
+    {
+       "id":57,
+       "word":"conscript",
+       "meaning":"Enlist (someone) compulsorily, typically into the armed services."
+    },
+    {
+       "id":58,
+       "word":"contrite",
+       "meaning":"Feeling or expressing remorse at the recognition that one has done wrong."
+    },
+    {
+       "id":59,
+       "word":"contumacious",
+       "meaning":"(especially of a defendant's behaviour) stubbornly or wilfully disobedient to authority."
+    },
+    {
+       "id":60,
+       "word":"coquette",
+       "meaning":"A flirtatious woman."
+    },
+    {
+       "id":61,
+       "word":"corroborate",
+       "meaning":"Confirm or give support to (a statement, theory, or finding)"
+    },
+    {
+       "id":62,
+       "word":"cozen",
+       "meaning":"Trick or deceive."
+    },
+    {
+       "id":63,
+       "word":"craven",
+       "meaning":"Contemptibly lacking in courage; cowardly."
+    },
+    {
+       "id":64,
+       "word":"delineate",
+       "meaning":"Describe or portray (something) precisely."
+    },
+    {
+       "id":65,
+       "word":"demur",
+       "meaning":"Raise objections or show reluctance."
+    },
+    {
+       "id":66,
+       "word":"denigrate",
+       "meaning":"Criticize unfairly; disparage."
+    },
+    {
+       "id":67,
+       "word":"denouement",
+       "meaning":"The final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved."
+    },
+    {
+       "id":68,
+       "word":"deride",
+       "meaning":"Express contempt for; ridicule."
+    },
+    {
+       "id":69,
+       "word":"desiccate",
+       "meaning":"Remove the moisture from (something); cause to become completely dry."
+    },
+    {
+       "id":70,
+       "word":"desultory",
+       "meaning":"Lacking a plan, purpose, or enthusiasm."
+    },
+    {
+       "id":71,
+       "word":"diatribe",
+       "meaning":"A forceful and bitter verbal attack against someone or something."
+    },
+    {
+       "id":72,
+       "word":"dirge",
+       "meaning":"A lament for the dead, especially one forming part of a funeral rite."
+    },
+    {
+       "id":73,
+       "word":"disabuse",
+       "meaning":"Persuade (someone) that an idea or belief is mistaken."
+    },
+    {
+       "id":74,
+       "word":"disingenuous",
+       "meaning":"Not candid or sincere, typically by pretending that one knows less about something than one really does."
+    },
+    {
+       "id":75,
+       "word":"disparage",
+       "meaning":"Regard or represent as being of little worth."
+    },
+    {
+       "id":76,
+       "word":"disparate",
+       "meaning":"Essentially different in kind; not able to be compared."
+    },
+    {
+       "id":77,
+       "word":"dissonance",
+       "meaning":"Lack of harmony among musical notes."
+    },
+    {
+       "id":78,
+       "word":"distrait",
+       "meaning":"Distracted or absent-minded."
+    },
+    {
+       "id":79,
+       "word":"doctrinaire",
+       "meaning":"Seeking to impose a doctrine in all circumstances without regard to practical considerations."
+    },
+    {
+       "id":80,
+       "word":"dross",
+       "meaning":"Something regarded as worthless; rubbish."
+    },
+    {
+       "id":81,
+       "word":"effete",
+       "meaning":"Affected, over-refined, and ineffectual."
+    },
+    {
+       "id":82,
+       "word":"effrontery",
+       "meaning":"Insolent or impertinent behaviour."
+    },
+    {
+       "id":83,
+       "word":"elysian",
+       "meaning":"Relating to or characteristic of heaven or paradise."
+    },
+    {
+       "id":84,
+       "word":"embellish",
+       "meaning":"Make (something) more attractive by the addition of decorative details or features."
+    },
+    {
+       "id":85,
+       "word":"emollient",
+       "meaning":"Having the quality of softening or soothing the skin."
+    },
+    {
+       "id":86,
+       "word":"enervate",
+       "meaning":"Make (someone) feel drained of energy or vitality."
+    },
+    {
+       "id":87,
+       "word":"engender",
+       "meaning":"Cause or give rise to (a feeling, situation, or condition)"
+    },
+    {
+       "id":88,
+       "word":"enigma",
+       "meaning":"A person or thing that is mysterious or difficult to understand."
+    },
+    {
+       "id":89,
+       "word":"ephemeral",
+       "meaning":"Lasting for a very short time."
+    },
+    {
+       "id":90,
+       "word":"equable",
+       "meaning":"Not easily disturbed or angered; calm and even-tempered."
+    },
+    {
+       "id":91,
+       "word":"equanimity",
+       "meaning":"Calmness and composure, especially in a difficult situation."
+    },
+    {
+       "id":92,
+       "word":"equivocal",
+       "meaning":"Open to more than one interpretation; ambiguous."
+    },
+    {
+       "id":93,
+       "word":"equivocate",
+       "meaning":"Use ambiguous language so as to conceal the truth or avoid committing oneself."
+    },
+    {
+       "id":94,
+       "word":"erudite",
+       "meaning":"Having or showing great knowledge or learning."
+    },
+    {
+       "id":95,
+       "word":"esoteric",
+       "meaning":"Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest."
+    },
+    {
+       "id":96,
+       "word":"eulogy",
+       "meaning":"A speech or piece of writing that praises someone or something highly, especially a tribute to someone who has just died."
+    },
+    {
+       "id":97,
+       "word":"exacerbate",
+       "meaning":"Make (a problem, bad situation, or negative feeling) worse."
+    },
+    {
+       "id":98,
+       "word":"exculpate",
+       "meaning":"Show or declare that (someone) is not guilty of wrongdoing."
+    },
+    {
+       "id":99,
+       "word":"execrable",
+       "meaning":"Extremely bad or unpleasant."
+    },
+    {
+       "id":100,
+       "word":"exigency",
+       "meaning":"An urgent need or demand."
+    },
+    {
+       "id":101,
+       "word":"expatiate",
+       "meaning":"Speak or write in detail about."
+    },
+    {
+       "id":102,
+       "word":"expiate",
+       "meaning":"Make amends or reparation for (guilt or wrongdoing)"
+    },
+    {
+       "id":103,
+       "word":"expository",
+       "meaning":"Intended to explain or describe something."
+    },
+    {
+       "id":104,
+       "word":"extant",
+       "meaning":"Still in existence; surviving."
+    },
+    {
+       "id":105,
+       "word":"extirpate",
+       "meaning":"Eradicate or destroy completely."
+    },
+    {
+       "id":106,
+       "word":"facetious",
+       "meaning":"Treating serious issues with deliberately inappropriate humour; flippant."
+    },
+    {
+       "id":107,
+       "word":"factotum",
+       "meaning":"An employee who does all kinds of work."
+    },
+    {
+       "id":108,
+       "word":"fallow",
+       "meaning":"(of farmland) ploughed and harrowed but left for a period without being sown in order to restore its fertility or to avoid surplus production."
+    },
+    {
+       "id":109,
+       "word":"fatuous",
+       "meaning":"Silly and pointless."
+    },
+    {
+       "id":110,
+       "word":"felicitous",
+       "meaning":"Well chosen or suited to the circumstances."
+    },
+    {
+       "id":111,
+       "word":"feral",
+       "meaning":"(especially of an animal) in a wild state, especially after escape from captivity or domestication."
+    },
+    {
+       "id":112,
+       "word":"fervid",
+       "meaning":"Intensely enthusiastic or passionate, especially to an excessive degree."
+    },
+    {
+       "id":113,
+       "word":"fetter",
+       "meaning":"A chain or manacle used to restrain a prisoner, typically placed around the ankles."
+    },
+    {
+       "id":114,
+       "word":"fiat",
+       "meaning":"A formal authorization or proposition; a decree."
+    },
+    {
+       "id":115,
+       "word":"fledgling",
+       "meaning":"A young bird that has just fledged."
+    },
+    {
+       "id":116,
+       "word":"foment",
+       "meaning":"Instigate or stir up (an undesirable or violent sentiment or course of action)"
+    },
+    {
+       "id":117,
+       "word":"forbearance",
+       "meaning":"Patient self-control; restraint and tolerance."
+    },
+    {
+       "id":118,
+       "word":"forswear",
+       "meaning":"Agree to give up or do without."
+    },
+    {
+       "id":119,
+       "word":"fractious",
+       "meaning":"(typically of children) irritable and quarrelsome."
+    },
+    {
+       "id":120,
+       "word":"frugality",
+       "meaning":"The quality of being economical with money or food; thriftiness."
+    },
+    {
+       "id":121,
+       "word":"fulminate",
+       "meaning":"Express vehement protest."
+    },
+    {
+       "id":122,
+       "word":"gainsay",
+       "meaning":"Deny or contradict (a fact or statement)"
+    },
+    {
+       "id":123,
+       "word":"gambol",
+       "meaning":"Run or jump about playfully."
+    },
+    {
+       "id":124,
+       "word":"garrulous",
+       "meaning":"Excessively talkative, especially on trivial matters."
+    },
+    {
+       "id":125,
+       "word":"gauche",
+       "meaning":"Unsophisticated and socially awkward."
+    },
+    {
+       "id":126,
+       "word":"grandiloquent",
+       "meaning":"Pompous or extravagant in language, style, or manner, especially in a way that is intended to impress."
+    },
+    {
+       "id":127,
+       "word":"gregarious",
+       "meaning":"(of a person) fond of company; sociable."
+    },
+    {
+       "id":128,
+       "word":"guileless",
+       "meaning":"Devoid of guile; innocent and without deception."
+    },
+    {
+       "id":129,
+       "word":"gullible",
+       "meaning":"Easily persuaded to believe something; credulous."
+    },
+    {
+       "id":130,
+       "word":"halcyon",
+       "meaning":"Denoting a period of time in the past that was idyllically happy and peaceful."
+    },
+    {
+       "id":131,
+       "word":"hallowed",
+       "meaning":"Made holy; consecrated."
+    },
+    {
+       "id":132,
+       "word":"harangue",
+       "meaning":"A lengthy and aggressive speech."
+    },
+    {
+       "id":133,
+       "word":"hegemony",
+       "meaning":"Leadership or dominance, especially by one state or social group over others."
+    },
+    {
+       "id":134,
+       "word":"hermetic",
+       "meaning":"(of a seal or closure) complete and airtight."
+    },
+    {
+       "id":135,
+       "word":"heterodox",
+       "meaning":"Not conforming with accepted or orthodox standards or beliefs."
+    },
+    {
+       "id":136,
+       "word":"hirsute",
+       "meaning":"Hairy."
+    },
+    {
+       "id":137,
+       "word":"histrionic",
+       "meaning":"Excessively theatrical or dramatic in character or style."
+    },
+    {
+       "id":138,
+       "word":"homogeneous",
+       "meaning":"Of the same kind; alike."
+    },
+    {
+       "id":139,
+       "word":"hyperbole",
+       "meaning":"Exaggerated statements or claims not meant to be taken literally."
+    },
+    {
+       "id":140,
+       "word":"iconoclastic",
+       "meaning":"Criticizing or attacking cherished beliefs or institutions."
+    },
+    {
+       "id":141,
+       "word":"igneous",
+       "meaning":"(of rock) having solidified from lava or magma."
+    },
+    {
+       "id":142,
+       "word":"imbroglio",
+       "meaning":"An extremely confused, complicated, or embarrassing situation."
+    },
+    {
+       "id":143,
+       "word":"impecunious",
+       "meaning":"Having little or no money."
+    },
+    {
+       "id":144,
+       "word":"impervious",
+       "meaning":"Not allowing fluid to pass through."
+    },
+    {
+       "id":145,
+       "word":"impinge",
+       "meaning":"Have an effect, especially a negative one."
+    },
+    {
+       "id":146,
+       "word":"imprecation",
+       "meaning":"A spoken curse."
+    },
+    {
+       "id":147,
+       "word":"inchoate",
+       "meaning":"Just begun and so not fully formed or developed; rudimentary."
+    },
+    {
+       "id":148,
+       "word":"indigence",
+       "meaning":"A state of extreme poverty; destitution."
+    },
+    {
+       "id":149,
+       "word":"indolent",
+       "meaning":"Wanting to avoid activity or exertion; lazy."
+    },
+    {
+       "id":150,
+       "word":"ineluctable",
+       "meaning":"Unable to be resisted or avoided; inescapable."
+    },
+    {
+       "id":151,
+       "word":"ingenuous",
+       "meaning":"(of a person or action) innocent and unsuspecting."
+    },
+    {
+       "id":152,
+       "word":"innocuous",
+       "meaning":"Not harmful or offensive."
+    },
+    {
+       "id":153,
+       "word":"insouciant",
+       "meaning":"Showing a casual lack of concern."
+    },
+    {
+       "id":154,
+       "word":"insuperable",
+       "meaning":"(of a difficulty or obstacle) impossible to overcome."
+    },
+    {
+       "id":155,
+       "word":"interdict",
+       "meaning":"An authoritative prohibition."
+    },
+    {
+       "id":156,
+       "word":"internecine",
+       "meaning":"Destructive to both sides in a conflict."
+    },
+    {
+       "id":157,
+       "word":"invective",
+       "meaning":"Insulting, abusive, or highly critical language."
+    },
+    {
+       "id":158,
+       "word":"inveigh",
+       "meaning":"Speak or write about (something) with great hostility."
+    },
+    {
+       "id":159,
+       "word":"inveigle",
+       "meaning":"Persuade (someone) to do something by means of deception or flattery."
+    },
+    {
+       "id":160,
+       "word":"inveterate",
+       "meaning":"Having a particular habit, activity, or interest that is long-established and unlikely to change."
+    },
+    {
+       "id":161,
+       "word":"invidious",
+       "meaning":"(of an action or situation) likely to arouse or incur resentment or anger in others."
+    },
+    {
+       "id":162,
+       "word":"itinerant",
+       "meaning":"Travelling from place to place."
+    },
+    {
+       "id":163,
+       "word":"laconic",
+       "meaning":"(of a person, speech, or style of writing) using very few words."
+    },
+    {
+       "id":164,
+       "word":"lascivious",
+       "meaning":"Feeling or revealing an overt sexual interest or desire."
+    },
+    {
+       "id":165,
+       "word":"lassitude",
+       "meaning":"A state of physical or mental weariness; lack of energy."
+    },
+    {
+       "id":166,
+       "word":"laudable",
+       "meaning":"(of an action, idea, or aim) deserving praise and commendation."
+    },
+    {
+       "id":167,
+       "word":"lethargic",
+       "meaning":"Affected by lethargy; sluggish and apathetic."
+    },
+    {
+       "id":168,
+       "word":"libertine",
+       "meaning":"A person, especially a man, who freely indulges in sensual pleasures without regard to moral principles."
+    },
+    {
+       "id":169,
+       "word":"limn",
+       "meaning":"Depict or describe in painting or words."
+    },
+    {
+       "id":170,
+       "word":"lissome",
+       "meaning":"(of a person or their body) thin, supple, and graceful."
+    },
+    {
+       "id":171,
+       "word":"loquacious",
+       "meaning":"Tending to talk a great deal; talkative."
+    },
+    {
+       "id":172,
+       "word":"lucid",
+       "meaning":"Expressed clearly; easy to understand."
+    },
+    {
+       "id":173,
+       "word":"lucre",
+       "meaning":"Money, especially when regarded as sordid or distasteful or gained in a dishonourable way."
+    },
+    {
+       "id":174,
+       "word":"machiavellian",
+       "meaning":"Cunning, scheming, and unscrupulous, especially in politics."
+    },
+    {
+       "id":175,
+       "word":"maelstrom",
+       "meaning":"A powerful whirlpool in the sea or a river."
+    },
+    {
+       "id":176,
+       "word":"malleable",
+       "meaning":"(of a metal or other material) able to be hammered or pressed into shape without breaking or cracking."
+    },
+    {
+       "id":177,
+       "word":"mendacious",
+       "meaning":"Not telling the truth; lying."
+    },
+    {
+       "id":178,
+       "word":"mendicant",
+       "meaning":"Given to begging."
+    },
+    {
+       "id":179,
+       "word":"meretricious",
+       "meaning":"Apparently attractive but having no real value."
+    },
+    {
+       "id":180,
+       "word":"mettle",
+       "meaning":"A person's ability to cope well with difficulties; spirit and resilience."
+    },
+    {
+       "id":181,
+       "word":"mettlesome",
+       "meaning":"(of a person or animal) full of spirit and courage; lively."
+    },
+    {
+       "id":182,
+       "word":"militate",
+       "meaning":"(of a fact or circumstance) be a powerful or conclusive factor in preventing."
+    },
+    {
+       "id":183,
+       "word":"minatory",
+       "meaning":"Expressing or conveying a threat."
+    },
+    {
+       "id":184,
+       "word":"misanthrope",
+       "meaning":"A person who dislikes humankind and avoids human society."
+    },
+    {
+       "id":185,
+       "word":"miscellany",
+       "meaning":"A group or collection of different items; a mixture."
+    },
+    {
+       "id":186,
+       "word":"misogynist",
+       "meaning":"A person who dislikes, despises, or is strongly prejudiced against women."
+    },
+    {
+       "id":187,
+       "word":"mitigate",
+       "meaning":"Make (something bad) less severe, serious, or painful."
+    },
+    {
+       "id":188,
+       "word":"modicum",
+       "meaning":"A small quantity of a particular thing, especially something desirable or valuable."
+    },
+    {
+       "id":189,
+       "word":"motley",
+       "meaning":"Incongruously varied in appearance or character; disparate."
+    },
+    {
+       "id":190,
+       "word":"necromancy",
+       "meaning":"The supposed practice of communicating with the dead, especially in order to predict the future."
+    },
+    {
+       "id":191,
+       "word":"neologism",
+       "meaning":"A newly coined word or expression."
+    },
+    {
+       "id":192,
+       "word":"neophyte",
+       "meaning":"A person who is new to a subject or activity."
+    },
+    {
+       "id":193,
+       "word":"nonplussed",
+       "meaning":"So surprised and confused that one is unsure how to react."
+    },
+    {
+       "id":194,
+       "word":"nugatory",
+       "meaning":"Of no value or importance."
+    },
+    {
+       "id":195,
+       "word":"obdurate",
+       "meaning":"Stubbornly refusing to change one's opinion or course of action."
+    },
+    {
+       "id":196,
+       "word":"obsequious",
+       "meaning":"Obedient or attentive to an excessive or servile degree."
+    },
+    {
+       "id":197,
+       "word":"occlude",
+       "meaning":"Stop, close up, or obstruct (an opening, orifice, or passage)"
+    },
+    {
+       "id":198,
+       "word":"officious",
+       "meaning":"Assertive of authority in a domineering way, especially with regard to trivial matters."
+    },
+    {
+       "id":199,
+       "word":"olfactory",
+       "meaning":"Relating to the sense of smell."
+    },
+    {
+       "id":200,
+       "word":"oligarchy",
+       "meaning":"A small group of people having control of a country or organization."
+    },
+    {
+       "id":201,
+       "word":"onerous",
+       "meaning":"(of a task or responsibility) involving a great deal of effort, trouble, or difficulty."
+    },
+    {
+       "id":202,
+       "word":"opaque",
+       "meaning":"Not able to be seen through; not transparent."
+    },
+    {
+       "id":203,
+       "word":"opprobrium",
+       "meaning":"Harsh criticism or censure."
+    },
+    {
+       "id":204,
+       "word":"ostentation",
+       "meaning":"The pretentious or showy display of wealth and luxury, designed to impress."
+    },
+    {
+       "id":205,
+       "word":"ostentatious",
+       "meaning":"Characterized by pretentious or showy display; designed to impress."
+    },
+    {
+       "id":206,
+       "word":"overweening",
+       "meaning":"Showing excessive confidence or pride."
+    },
+    {
+       "id":207,
+       "word":"paean",
+       "meaning":"A song of praise or triumph."
+    },
+    {
+       "id":208,
+       "word":"panegyric",
+       "meaning":"A public speech or published text in praise of someone or something."
+    },
+    {
+       "id":209,
+       "word":"paradox",
+       "meaning":"A seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true."
+    },
+    {
+       "id":210,
+       "word":"patois",
+       "meaning":"The dialect of a particular region, especially one with low status in relation to the standard language of the country."
+    },
+    {
+       "id":211,
+       "word":"paucity",
+       "meaning":"The presence of something in only small or insufficient quantities or amounts."
+    },
+    {
+       "id":212,
+       "word":"pedant",
+       "meaning":"A person who is excessively concerned with minor details and rules or with displaying academic learning."
+    },
+    {
+       "id":213,
+       "word":"pedantic",
+       "meaning":"Excessively concerned with minor details or rules; overscrupulous."
+    },
+    {
+       "id":214,
+       "word":"penury",
+       "meaning":"The state of being very poor; extreme poverty."
+    },
+    {
+       "id":215,
+       "word":"peremptory",
+       "meaning":"Insisting on immediate attention or obedience, especially in a brusquely imperious way."
+    },
+    {
+       "id":216,
+       "word":"perennial",
+       "meaning":"Lasting or existing for a long or apparently infinite time; enduring or continually recurring."
+    },
+    {
+       "id":217,
+       "word":"perfidious",
+       "meaning":"Deceitful and untrustworthy."
+    },
+    {
+       "id":218,
+       "word":"perfunctory",
+       "meaning":"(of an action) carried out without real interest, feeling, or effort."
+    },
+    {
+       "id":219,
+       "word":"perigee",
+       "meaning":"The point in the orbit of the moon or a satellite at which it is nearest to the earth."
+    },
+    {
+       "id":220,
+       "word":"petulant",
+       "meaning":"(of a person or their manner) childishly sulky or bad-tempered."
+    },
+    {
+       "id":221,
+       "word":"philanthropic",
+       "meaning":"(of a person or organization) seeking to promote the welfare of others; generous and benevolent."
+    },
+    {
+       "id":222,
+       "word":"phlegmatic",
+       "meaning":"(of a person) having an unemotional and stolidly calm disposition."
+    },
+    {
+       "id":223,
+       "word":"physiognomy",
+       "meaning":"A person's facial features or expression, especially when regarded as indicative of character or ethnic origin."
+    },
+    {
+       "id":224,
+       "word":"piety",
+       "meaning":"The quality of being religious or reverent."
+    },
+    {
+       "id":225,
+       "word":"piquant",
+       "meaning":"Having a pleasantly sharp taste or appetizing flavour."
+    },
+    {
+       "id":226,
+       "word":"pique",
+       "meaning":"A feeling of irritation or resentment resulting from a slight, especially to one's pride."
+    },
+    {
+       "id":227,
+       "word":"placate",
+       "meaning":"Make (someone) less angry or hostile."
+    },
+    {
+       "id":228,
+       "word":"plaintive",
+       "meaning":"Sounding sad and mournful."
+    },
+    {
+       "id":229,
+       "word":"platitude",
+       "meaning":"A remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful."
+    },
+    {
+       "id":230,
+       "word":"platonic",
+       "meaning":"(of love or friendship) intimate and affectionate but not sexual."
+    },
+    {
+       "id":231,
+       "word":"plethora",
+       "meaning":"A large or excessive amount of something."
+    },
+    {
+       "id":232,
+       "word":"plummet",
+       "meaning":"Fall or drop straight down at high speed."
+    },
+    {
+       "id":233,
+       "word":"pragmatic",
+       "meaning":"Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations."
+    },
+    {
+       "id":234,
+       "word":"prate",
+       "meaning":"Talk foolishly or at tedious length about something."
+    },
+    {
+       "id":235,
+       "word":"prattle",
+       "meaning":"Talk at length in a foolish or inconsequential way."
+    },
+    {
+       "id":236,
+       "word":"precarious",
+       "meaning":"Not securely held or in position; dangerously likely to fall or collapse."
+    },
+    {
+       "id":237,
+       "word":"precept",
+       "meaning":"A general rule intended to regulate behaviour or thought."
+    },
+    {
+       "id":238,
+       "word":"precipitate",
+       "meaning":"Cause (an event or situation, typically one that is undesirable) to happen suddenly, unexpectedly, or prematurely."
+    },
+    {
+       "id":239,
+       "word":"precursor",
+       "meaning":"A person or thing that comes before another of the same kind; a forerunner."
+    },
+    {
+       "id":240,
+       "word":"preempt",
+       "meaning":"Take action in order to prevent (an anticipated event) from happening; forestall."
+    },
+    {
+       "id":241,
+       "word":"prehensile",
+       "meaning":"(chiefly of an animal's limb or tail) capable of grasping."
+    },
+    {
+       "id":242,
+       "word":"premonition",
+       "meaning":"A strong feeling that something is about to happen, especially something unpleasant."
+    },
+    {
+       "id":243,
+       "word":"presage",
+       "meaning":"Be a sign or warning of (an imminent event, typically an unwelcome one)"
+    },
+    {
+       "id":244,
+       "word":"presumptuous",
+       "meaning":"(of a person or their behaviour) failing to observe the limits of what is permitted or appropriate."
+    },
+    {
+       "id":245,
+       "word":"preternatural",
+       "meaning":"Beyond what is normal or natural."
+    },
+    {
+       "id":246,
+       "word":"prevaricate",
+       "meaning":"Speak or act in an evasive way."
+    },
+    {
+       "id":247,
+       "word":"primordial",
+       "meaning":"Existing at or from the beginning of time; primeval."
+    },
+    {
+       "id":248,
+       "word":"probity",
+       "meaning":"The quality of having strong moral principles; honesty and decency."
+    },
+    {
+       "id":249,
+       "word":"prodigal",
+       "meaning":"Spending money or using resources freely and recklessly; wastefully extravagant."
+    },
+    {
+       "id":250,
+       "word":"propensity",
+       "meaning":"An inclination or natural tendency to behave in a particular way."
+    },
+    {
+       "id":251,
+       "word":"propitiate",
+       "meaning":"Win or regain the favour of (a god, spirit, or person) by doing something that pleases them."
+    },
+    {
+       "id":252,
+       "word":"propriety",
+       "meaning":"Conformity to conventionally accepted standards of behaviour or morals."
+    },
+    {
+       "id":253,
+       "word":"proscribe",
+       "meaning":"Forbid, especially by law."
+    },
+    {
+       "id":254,
+       "word":"puissant",
+       "meaning":"Having great power or influence."
+    },
+    {
+       "id":255,
+       "word":"punctilious",
+       "meaning":"Showing great attention to detail or correct behaviour."
+    },
+    {
+       "id":256,
+       "word":"purport",
+       "meaning":"Appear to be or do something, especially falsely."
+    },
+    {
+       "id":257,
+       "word":"pusillanimous",
+       "meaning":"Showing a lack of courage or determination; timid."
+    },
+    {
+       "id":258,
+       "word":"quagmire",
+       "meaning":"A soft boggy area of land that gives way underfoot."
+    },
+    {
+       "id":259,
+       "word":"quail",
+       "meaning":"A small short-tailed Old World game bird resembling a tiny partridge, typically having brown camouflaged plumage."
+    },
+    {
+       "id":260,
+       "word":"qualm",
+       "meaning":"An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving."
+    },
+    {
+       "id":261,
+       "word":"quibble",
+       "meaning":"A slight objection or criticism about a trivial matter."
+    },
+    {
+       "id":262,
+       "word":"rail",
+       "meaning":"A bar or series of bars fixed on upright supports or attached to a wall or ceiling, serving as part of a barrier or used to hang things on."
+    },
+    {
+       "id":263,
+       "word":"raiment",
+       "meaning":"Clothing."
+    },
+    {
+       "id":264,
+       "word":"ramification",
+       "meaning":"A complex or unwelcome consequence of an action or event."
+    },
+    {
+       "id":265,
+       "word":"rarefied",
+       "meaning":"(of air, especially that at high altitudes) of lower pressure than usual; thin."
+    },
+    {
+       "id":266,
+       "word":"recalcitrant",
+       "meaning":"Having an obstinately uncooperative attitude towards authority or discipline."
+    },
+    {
+       "id":267,
+       "word":"recant",
+       "meaning":"Say that one no longer holds an opinion or belief, especially one considered heretical."
+    },
+    {
+       "id":268,
+       "word":"recluse",
+       "meaning":"A person who lives a solitary life and tends to avoid other people."
+    },
+    {
+       "id":269,
+       "word":"recondite",
+       "meaning":"(of a subject or knowledge) little known; abstruse."
+    },
+    {
+       "id":270,
+       "word":"redoubtable",
+       "meaning":"(of a person) formidable, especially as an opponent."
+    },
+    {
+       "id":271,
+       "word":"refractory",
+       "meaning":"Stubborn or unmanageable."
+    },
+    {
+       "id":272,
+       "word":"refulgent",
+       "meaning":"Shining very brightly."
+    },
+    {
+       "id":273,
+       "word":"remonstrate",
+       "meaning":"Make a forcefully reproachful protest."
+    },
+    {
+       "id":274,
+       "word":"renege",
+       "meaning":"Go back on a promise, undertaking, or contract."
+    },
+    {
+       "id":275,
+       "word":"repine",
+       "meaning":"Feel or express discontent; fret."
+    },
+    {
+       "id":276,
+       "word":"reproach",
+       "meaning":"Express to (someone) one's disapproval of or disappointment in their actions."
+    },
+    {
+       "id":277,
+       "word":"reprobate",
+       "meaning":"An unprincipled person."
+    },
+    {
+       "id":278,
+       "word":"repudiate",
+       "meaning":"Refuse to accept; reject."
+    },
+    {
+       "id":279,
+       "word":"rescind",
+       "meaning":"Revoke, cancel, or repeal (a law, order, or agreement)"
+    },
+    {
+       "id":280,
+       "word":"reticent",
+       "meaning":"Not revealing one's thoughts or feelings readily."
+    },
+    {
+       "id":281,
+       "word":"riposte",
+       "meaning":"A quick, clever reply to an insult or criticism."
+    },
+    {
+       "id":282,
+       "word":"rococo",
+       "meaning":"Denoting furniture or architecture characterized by an elaborately ornamental late baroque style of decoration prevalent in 18th-century continental Europe, with asymmetrical patterns involving motifs and scrollwork."
+    },
+    {
+       "id":283,
+       "word":"salacious",
+       "meaning":"Having or conveying undue or inappropriate interest in sexual matters."
+    },
+    {
+       "id":284,
+       "word":"salubrious",
+       "meaning":"Health-giving; healthy."
+    },
+    {
+       "id":285,
+       "word":"salutary",
+       "meaning":"(especially with reference to something unwelcome or unpleasant) producing good effects; beneficial."
+    },
+    {
+       "id":286,
+       "word":"saturnine",
+       "meaning":"(of a person or their manner) gloomy."
+    },
+    {
+       "id":287,
+       "word":"solecism",
+       "meaning":"A grammatical mistake in speech or writing."
+    },
+    {
+       "id":288,
+       "word":"somatic",
+       "meaning":"Relating to the body, especially as distinct from the mind."
+    },
+    {
+       "id":289,
+       "word":"soporific",
+       "meaning":"Tending to induce drowsiness or sleep."
+    },
+    {
+       "id":290,
+       "word":"squalor",
+       "meaning":"The state of being extremely dirty and unpleasant, especially as a result of poverty or neglect."
+    },
+    {
+       "id":291,
+       "word":"stentorian",
+       "meaning":"(of a person's voice) loud and powerful."
+    },
+    {
+       "id":292,
+       "word":"stolid",
+       "meaning":"Calm, dependable, and showing little emotion or animation."
+    },
+    {
+       "id":293,
+       "word":"stygian",
+       "meaning":"Relating to the River Styx in Greek mythology."
+    },
+    {
+       "id":294,
+       "word":"succor",
+       "meaning":"Assistance and support in times of hardship and distress."
+    },
+    {
+       "id":295,
+       "word":"suffrage",
+       "meaning":"The right to vote in political elections."
+    },
+    {
+       "id":296,
+       "word":"supine",
+       "meaning":"(of a person) lying face upwards."
+    },
+    {
+       "id":297,
+       "word":"supplicant",
+       "meaning":"Making or expressing a plea, especially to someone in power or authority."
+    },
+    {
+       "id":298,
+       "word":"talisman",
+       "meaning":"An object, typically an inscribed ring or stone, that is thought to have magic powers and to bring good luck."
+    },
+    {
+       "id":299,
+       "word":"tautology",
+       "meaning":"The saying of the same thing twice over in different words, generally considered to be a fault of style (e.g. they arrived one after the other in succession)."
+    },
+    {
+       "id":300,
+       "word":"thespian",
+       "meaning":"Relating to drama and the theatre."
+    },
+    {
+       "id":301,
+       "word":"torpor",
+       "meaning":"A state of physical or mental inactivity; lethargy."
+    },
+    {
+       "id":302,
+       "word":"tortuous",
+       "meaning":"Full of twists and turns."
+    },
+    {
+       "id":303,
+       "word":"tractable",
+       "meaning":"(of a person) easy to control or influence."
+    },
+    {
+       "id":304,
+       "word":"travail",
+       "meaning":"Painful or laborious effort."
+    },
+    {
+       "id":305,
+       "word":"travesty",
+       "meaning":"A false, absurd, or distorted representation of something."
+    },
+    {
+       "id":306,
+       "word":"tutelary",
+       "meaning":"Serving as a protector, guardian, or patron."
+    },
+    {
+       "id":307,
+       "word":"unfeigned",
+       "meaning":"Genuine; sincere."
+    },
+    {
+       "id":308,
+       "word":"vacillate",
+       "meaning":"Waver between different opinions or actions; be indecisive."
+    },
+    {
+       "id":309,
+       "word":"valedictory",
+       "meaning":"Serving as a farewell."
+    },
+    {
+       "id":310,
+       "word":"vapid",
+       "meaning":"Offering nothing that is stimulating or challenging; bland."
+    },
+    {
+       "id":311,
+       "word":"venal",
+       "meaning":"Showing or motivated by susceptibility to bribery; corrupt."
+    },
+    {
+       "id":312,
+       "word":"venerate",
+       "meaning":"Regard with great respect; revere."
+    },
+    {
+       "id":313,
+       "word":"veracious",
+       "meaning":"Speaking or representing the truth."
+    },
+    {
+       "id":314,
+       "word":"vertigo",
+       "meaning":"A sensation of whirling and loss of balance, associated particularly with looking down from a great height, or caused by disease affecting the inner ear or the vestibular nerve; giddiness."
+    },
+    {
+       "id":315,
+       "word":"vitiate",
+       "meaning":"Spoil or impair the quality or efficiency of."
+    },
+    {
+       "id":316,
+       "word":"vivisection",
+       "meaning":"The practice of performing operations on live animals for the purpose of experimentation or scientific research (used only by opponents of such work)"
+    },
+    {
+       "id":317,
+       "word":"volatile",
+       "meaning":"(of a substance) easily evaporated at normal temperatures."
+    },
+    {
+       "id":318,
+       "word":"waver",
+       "meaning":"Move in a quivering way; flicker."
+    },
+    {
+       "id":319,
+       "word":"welter",
+       "meaning":"Move in a turbulent fashion."
+    },
+    {
+       "id":320,
+       "word":"wistful",
+       "meaning":"Having or showing a feeling of vague or regretful longing."
+    },
+    {
+       "id":321,
+       "word":"wraith",
+       "meaning":"A ghost or ghostlike image of someone, especially one seen shortly before or after their death."
+    },
+    {
+       "id":322,
+       "word":"zeal",
+       "meaning":"Great energy or enthusiasm in pursuit of a cause or an objective."
+    },
+    {
+       "id":323,
+       "word":"variegated",
+       "meaning":"Exhibiting different colours, especially as irregular patches or streaks."
+    }
+ ]
