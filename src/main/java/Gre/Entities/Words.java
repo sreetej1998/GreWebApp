@@ -2,12 +2,12 @@ package Gre.Entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 
-@JsonIgnoreProperties
+//@JsonIgnoreProperties
 @Entity
 @Table(name="words")
 public class Words {
@@ -35,11 +35,22 @@ public class Words {
         this.id = id;
     }
 
-    @Id
+
     @Column(name="word")
     private String word;
+    @Id
     @Column
     private String id;
     @Column(name="meaning")
     private String meaning;
+
+    @ManyToMany(cascade = {CascadeType.ALL})
+    @JoinTable(
+            name="status",
+            joinColumns = { @JoinColumn(name = "word_id") },
+            inverseJoinColumns = { @JoinColumn(name ="user_id" )}
+    )
+    List<User> userSets;
+
+
 }

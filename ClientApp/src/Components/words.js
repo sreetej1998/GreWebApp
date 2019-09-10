@@ -5,7 +5,7 @@ class Words extends React.Component{
     constructor(){
         super()
         this.state={data:[],info:[]}
-        this.url="http://172.16.18.54:8080/words"
+        this.url="http://localhost:8080/words"
         this.randomWords=this.randomWords.bind(this)
     
     }
@@ -15,10 +15,6 @@ class Words extends React.Component{
             this.setState({data:response.data})
         })
         .catch(err=>alert("didnt fetch"))
-        // .then(data=>{
-        //     this.setState({data:response.data})
-        // })
-        // .catch(err=>alert("fetched is not json"))
 
     }
 
