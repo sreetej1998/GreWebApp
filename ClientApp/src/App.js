@@ -9,10 +9,17 @@ class App extends React.Component{
       logged:false
     }
     this.setLogin = this.setLogin.bind(this);
+    this.rememberUserName=this.rememberUserName.bind(this);
   }
+  
   setLogin()
   {
-    this.setState({logged:true})
+    this.setState({logged:!this.state.logged});
+    
+  }
+
+  rememberUserName(username){
+this.setState({username:username})
   }
 
   render(){
@@ -20,11 +27,11 @@ class App extends React.Component{
     {
     return (
       <div>
-        <Words />
+        <Words callBack={this.setLogin} username={this.state.username}/>
       </div>
      );
     }
-    return <Auth callBack={this.setLogin} />
+    return <Auth callBack={this.setLogin} rememberUserName={this.rememberUserName}/>
   }
 }
 
