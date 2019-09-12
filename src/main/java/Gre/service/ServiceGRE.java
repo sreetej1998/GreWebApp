@@ -5,6 +5,7 @@ import Gre.Entities.Words;
 import Gre.jpadao.UserJPA;
 import Gre.jpadao.WordsJPA;
 import Gre.util.Learnt;
+import Gre.util.Ques;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -90,4 +91,34 @@ public class ServiceGRE {
             }}
         return null;
     }
+
+    public List<Ques> generateQuiz(String username){
+        User user=getUser(username);
+        List<Words> words=user.getWordsSet();
+        List<Ques> questions= new ArrayList();
+        if(words.size()<10){
+            for(Words word:words){
+                Ques question= new Ques();
+                question.setAnswer(word.getMeaning());
+                question.setQuestion(word.getWord());
+                question.setOptions(generateRandomWords(3));
+                question.getOptions().add(question.getAnswer());
+                questions.add(question);
+            }
+        }
+        return questions;
+    }
+
+    public List<String> generateRandomWords(int size){
+        List<String> options= new ArrayList<>();
+        List<Words> words= getWords();
+        for(int i=0;i<size;i++){
+            int index=(int)Math.floor(Math.random()*100) % words.size();
+            String meaning=words.get(index).getMeaning();
+            options.add(meaning);
+        }
+        return options;
+    }
+
+
 }

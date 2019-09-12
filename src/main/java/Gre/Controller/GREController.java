@@ -3,6 +3,7 @@ import Gre.Entities.Words;
 import Gre.jpadao.WordsJPA;
 import Gre.service.ServiceGRE;
 import Gre.util.Learnt;
+import Gre.util.Ques;
 import Gre.util.populateDB;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -52,5 +53,11 @@ return serviceGRE.getWords();
     @CrossOrigin(origins = {"http://localhost:3000"})
     public String removeLearntWord(@RequestBody Learnt learntWord){
         return serviceGRE.removeLearntWords(learntWord);
+    }
+
+    @GetMapping("/generateQuiz/{username}")
+    @CrossOrigin(origins = {"http://localhost:3000"})
+    public List<Ques> generateQuiz(@PathVariable String username){
+        return serviceGRE.generateQuiz(username);
     }
 }

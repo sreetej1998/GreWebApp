@@ -11,10 +11,12 @@ import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
+import Quiz from '../Components/Quiz'
 class Words extends React.Component{
     constructor(){
         super()
-        this.state={data:[],info:[],flag:[false,false,false,false,false,false],index:0,word:""}
+        this.state={data:[],info:[],flag:[false,false,false,false,false,false],
+            index:0,word:"",quiz:false}
         this.url="http://localhost:8080/"
         this.randomWords=this.randomWords.bind(this)
     
@@ -63,6 +65,11 @@ class Words extends React.Component{
         this.setState({word:word})   
     }
 
+    quiz=()=>{
+        this.setState({quiz:true})
+        
+    }
+
     render(){
         var words=null
         if(this.state.learnt){
@@ -89,6 +96,9 @@ class Words extends React.Component{
 
             )
         }
+        if(this.state.quiz===true)
+        words=<Quiz username={this.props.username}/>
+        
     
        
         return (
@@ -106,6 +116,7 @@ class Words extends React.Component{
                 <Button onClick={this.learntWords} variant="outlined" color="inherit">learntWords</Button>
                 <div align="right">
                 <Button onClick={this.props.callBack} variant="outlined" color="inherit" align="right">logout</Button>
+                <Button onClick={this.quiz} variant="outlined" color="inherit">Take a Quiz</Button>
                  </div>   
                     {words}
                
