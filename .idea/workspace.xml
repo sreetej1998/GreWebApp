@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d2fded3a-136a-457d-830c-f01bde8f12ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Gre/Controller/GREController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Gre/Controller/GREController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Gre/service/ServiceGRE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Gre/service/ServiceGRE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gre/Controller/GREController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gre/Controller/GREController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Gre/service/ServiceGRE.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gre/service/ServiceGRE.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,6 +130,7 @@
       <workItem from="1568092062703" duration="13817000" />
       <workItem from="1568175724403" duration="4793000" />
       <workItem from="1568259801877" duration="10593000" />
+      <workItem from="1568348572819" duration="1347000" />
     </task>
     <servers />
   </component>

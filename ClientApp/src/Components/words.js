@@ -113,10 +113,11 @@ class Words extends React.Component{
             </AppBar>
             <br/><br/><br></br>
                 <Button onClick={this.randomWords} variant="outlined" color="inherit">showWords</Button>
+                <Button onClick={this.quiz} variant="outlined" color="inherit">Take a Quiz</Button>
                 <Button onClick={this.learntWords} variant="outlined" color="inherit">learntWords</Button>
                 <div align="right">
                 <Button onClick={this.props.callBack} variant="outlined" color="inherit" align="right">logout</Button>
-                <Button onClick={this.quiz} variant="outlined" color="inherit">Take a Quiz</Button>
+               
                  </div>   
                     {words}
                
