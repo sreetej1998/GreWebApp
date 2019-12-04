@@ -44,7 +44,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Gre/util" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +70,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CrudApplication">
+  <component name="RunManager" selected="Application.CrudApplication">
+    <configuration name="CrudApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gre.CrudApplication" />
+      <module name="greApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gre.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="populateDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gre.util.populateDB" />
       <module name="greApp" />
@@ -109,9 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.CrudApplication" />
+        <item itemvalue="Application.CrudApplication" />
         <item itemvalue="Application.populateDB" />
-        <item itemvalue="HTTP Request.CrudApplication#1" />
       </list>
     </recent_temporary>
   </component>
